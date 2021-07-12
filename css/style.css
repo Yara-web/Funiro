@@ -2865,6 +2865,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .slider-main__title {
+  font-family: inherit;
   font-size: 28px;
   font-weight: 600;
   line-height: 120%;
